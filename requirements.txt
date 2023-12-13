@@ -5,5 +5,5 @@ evosax
 distrax
 optax
 flax
-numpy
+numpy==1.24.1
 brax
